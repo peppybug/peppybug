@@ -24,3 +24,9 @@ Github User, Discord moderator, Support for Discord Bots and alot more!
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/peppybug) 
   Or become a sponsor on my github page!
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peppybug/peppybug/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peppybug/peppybug/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/peppybug/peppybug/output/github-snake.svg" />
+</picture>
