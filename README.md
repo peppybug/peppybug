@@ -3,6 +3,7 @@
 # 💫 About Me:
 Github User, Discord moderator, Support for Discord Bots and alot more!
 
+![Rock Playing GIF by Alex Boya](https://github.com/user-attachments/assets/b9f1b28a-89fe-4312-9d80-125248ea7768)
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/peppybug) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/peppybug) 
