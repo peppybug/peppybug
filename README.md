@@ -1,12 +1,8 @@
 # Peppybug
 
-## 🛠️ What I Do
-- Coding
-- Translating
-- Moderating
-
 ## 📍 Currently
 - Working on KilledbyDiscord.com
+- Working at SpaceXAI
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/peppybug) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/peppybug) 
